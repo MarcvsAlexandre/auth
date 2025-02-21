@@ -69,8 +69,8 @@ O banco de dados utilizado é **PostgreSQL**. A aplicação está preparada para
 
 1. **Clonar o repositório**:
    ```bash
-   git clone <repo-url>
-   cd <repo-folder>
+   git clone <git@github.com:MarcvsAlexandre/auth.git>
+   cd <auth>
    ```
 
 2. **Instalar dependências**:
